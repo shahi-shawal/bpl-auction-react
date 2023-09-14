@@ -1,0 +1,165 @@
+{
+    "players": [
+      {
+        "id": 1,
+        "name": "Tamim Iqbal",
+        "age": 32,
+        "country": "Bangladesh",
+        "salary": 150000,
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170899/tamim-iqbal.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Shakib Al Hasan",
+        "age": 34,
+        "country": "Bangladesh",
+        "salary": 160000,
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244928/shakib-al-hasan.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Mushfiqur Rahim",
+        "age": 32,
+        "country": "Bangladesh",
+        "salary": 140000,
+        "image": "https://i.ibb.co/RbP5nKM/mushfiqur-rahim.webp"
+      },
+      {
+        "id": 4,
+        "name": "Joe Root",
+        "age": 30,
+        "country": "England",
+        "salary": 180000,
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170942/joe-root.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Virat Kohli",
+        "age": 33,
+        "country": "India",
+        "salary": 200000,
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c332891/virat-kohli.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Steve Smith",
+        "age": 32,
+        "country": "Australia",
+        "salary": 190000,
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c332907/steven-smith.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Kane Williamson",
+        "age": 31,
+        "country": "New Zealand",
+        "salary": 170000,
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244826/kane-williamson.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Quinton de Kock",
+        "age": 28,
+        "country": "South Africa",
+        "salary": 160000,
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244766/quinton-de-kock.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Jason Holder",
+        "age": 29,
+        "country": "West Indies",
+        "salary": 150000,
+        "image": "https://example.com/jason_holder.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Eoin Morgan",
+        "age": 35,
+        "country": "England",
+        "salary": 170000,
+        "image": "https://example.com/eoin_morgan.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Babar Azam",
+        "age": 27,
+        "country": "Pakistan",
+        "salary": 160000,
+        "image": "https://example.com/babar_azam.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Rashid Khan",
+        "age": 23,
+        "country": "Afghanistan",
+        "salary": 120000,
+        "image": "https://example.com/rashid_khan.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Faf du Plessis",
+        "age": 36,
+        "country": "South Africa",
+        "salary": 170000,
+        "image": "https://example.com/faf_du_plessis.jpg"
+      },
+      {
+        "id": 14,
+        "name": "David Warner",
+        "age": 34,
+        "country": "Australia",
+        "salary": 190000,
+        "image": "https://example.com/david_warner.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Ross Taylor",
+        "age": 37,
+        "country": "New Zealand",
+        "salary": 150000,
+        "image": "https://example.com/ross_taylor.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Kusal Perera",
+        "age": 30,
+        "country": "Sri Lanka",
+        "salary": 140000,
+        "image": "https://example.com/kusal_perera.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Jos Buttler",
+        "age": 31,
+        "country": "England",
+        "salary": 170000,
+        "image": "https://example.com/jos_buttler.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Marnus Labuschagne",
+        "age": 27,
+        "country": "Australia",
+        "salary": 180000,
+        "image": "https://example.com/marnus_labuschagne.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Kagiso Rabada",
+        "age": 26,
+        "country": "South Africa",
+        "salary": 160000,
+        "image": "https://example.com/kagiso_rabada.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Trent Boult",
+        "age": 32,
+        "country": "New Zealand",
+        "salary": 160000,
+        "image": "https://example.com/trent_boult.jpg"
+      }
+    ]
+  }
+  
