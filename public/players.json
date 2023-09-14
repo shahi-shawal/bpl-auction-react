@@ -70,7 +70,7 @@
         "age": 29,
         "country": "West Indies",
         "salary": 150000,
-        "image": "https://example.com/jason_holder.jpg"
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244677/jason-holder.jpg"
       },
       {
         "id": 10,
@@ -78,7 +78,7 @@
         "age": 35,
         "country": "England",
         "salary": 170000,
-        "image": "https://example.com/eoin_morgan.jpg"
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170936/eoin-morgan.jpg"
       },
       {
         "id": 11,
@@ -86,7 +86,7 @@
         "age": 27,
         "country": "Pakistan",
         "salary": 160000,
-        "image": "https://example.com/babar_azam.jpg"
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244936/babar-azam.jpg"
       },
       {
         "id": 12,
@@ -94,7 +94,7 @@
         "age": 23,
         "country": "Afghanistan",
         "salary": 120000,
-        "image": "https://example.com/rashid_khan.jpg"
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244769/rashid-khan.jpg"
       },
       {
         "id": 13,
@@ -102,7 +102,7 @@
         "age": 36,
         "country": "South Africa",
         "salary": 170000,
-        "image": "https://example.com/faf_du_plessis.jpg"
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170639/faf-du-plessis.jpg"
       },
       {
         "id": 14,
@@ -110,7 +110,7 @@
         "age": 34,
         "country": "Australia",
         "salary": 190000,
-        "image": "https://example.com/david_warner.jpg"
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c332904/david-warner.jpg"
       },
       {
         "id": 15,
@@ -118,7 +118,7 @@
         "age": 37,
         "country": "New Zealand",
         "salary": 150000,
-        "image": "https://example.com/ross_taylor.jpg"
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170729/ross-taylor.jpg"
       },
       {
         "id": 16,
@@ -126,7 +126,7 @@
         "age": 30,
         "country": "Sri Lanka",
         "salary": 140000,
-        "image": "https://example.com/kusal_perera.jpg"
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170718/kusal-perera.jpg"
       },
       {
         "id": 17,
@@ -134,7 +134,7 @@
         "age": 31,
         "country": "England",
         "salary": 170000,
-        "image": "https://example.com/jos_buttler.jpg"
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244800/jos-buttler.jpg"
       },
       {
         "id": 18,
@@ -142,7 +142,7 @@
         "age": 27,
         "country": "Australia",
         "salary": 180000,
-        "image": "https://example.com/marnus_labuschagne.jpg"
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c332906/marnus-labuschagne.jpg"
       },
       {
         "id": 19,
@@ -150,7 +150,7 @@
         "age": 26,
         "country": "South Africa",
         "salary": 160000,
-        "image": "https://example.com/kagiso_rabada.jpg"
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244765/kagiso-rabada.jpg"
       },
       {
         "id": 20,
@@ -158,7 +158,7 @@
         "age": 32,
         "country": "New Zealand",
         "salary": 160000,
-        "image": "https://example.com/trent_boult.jpg"
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244829/trent-boult.jpg"
       },
       {
         "id": 21,
@@ -166,7 +166,7 @@
         "age": 28,
         "country": "Bangladesh",
         "salary": 100000,
-        "image": "https://example.com/trent_boult.jpg"
+        "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244932/taskin-ahmed.jpg"
       }
     ]
   }

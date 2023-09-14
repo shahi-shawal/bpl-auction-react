@@ -11,9 +11,7 @@ function App() {
   // const [isBtnDisable, setDisable]= useState(false)
   
   const auctionBtn =(auction)=>{
-      // const dis = [...isBtrue]
-    // setDisable (true)
-    // console.log("click",auction);
+      
     const finditem = playerAuction.find(item=> item.id ===auction.id)
     if(finditem){
       return alert("You can buy only once")

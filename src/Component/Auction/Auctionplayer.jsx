@@ -13,11 +13,11 @@ const Auctionplayer = ({ player, auctionBtn }) => {
             <h2 className="card-title text-bold">Name: {name}</h2>
             <p className="card-text text-xl">Age: {age}</p>
             <p className="card-text text-xl">Country: {country}</p>
-            <div className="flex justify-between items-center">
+            <div className="flex flex-col lg:flex-row justify-between items-center">
               <span className="text-xl font-semibold text-red-500">
                 ${salary}
               </span>
-              <button onClick={()=>auctionBtn(player)}  className="btn btn-primary">Auction</button>
+              <button onClick={()=>auctionBtn(player)}  className="btn btn-primary ">Auction</button>
             </div>
           </div>
         </div>

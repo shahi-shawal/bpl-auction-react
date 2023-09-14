@@ -9,7 +9,7 @@ function Cart({playerAuction}) {
  let totalCost = 0
     totalCost= 700000-cost;
     if (cost > 700000) {
-      return alert("your balace sesh")
+      return alert("Remember Your Limit is $700000,Go again")
     }
     
     
