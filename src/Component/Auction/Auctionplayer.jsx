@@ -1,6 +1,6 @@
 import PropTypes from "prop-types";
 
-const Auctionplayer = ({ player, auctionBtn,isBtnDisable }) => {
+const Auctionplayer = ({ player, auctionBtn }) => {
   const { name, age, salary, country, image } = player;
   return (
     <div>
@@ -17,7 +17,7 @@ const Auctionplayer = ({ player, auctionBtn,isBtnDisable }) => {
               <span className="text-xl font-semibold text-red-500">
                 ${salary}
               </span>
-              <button onClick={()=>auctionBtn(player)} disabled={isBtnDisable} className="btn btn-primary">Auction</button>
+              <button onClick={()=>auctionBtn(player)}  className="btn btn-primary">Auction</button>
             </div>
           </div>
         </div>

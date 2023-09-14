@@ -19,7 +19,7 @@ function Cart({playerAuction}) {
   return (
     <div>
       <div className='mx-20 my-6'>
-      <h1 className='text-2xl font-bold text-center'>Players Added: {playerAuction.length}</h1>
+      <h1 className='text-2xl font-bold text-center'>Players Added: {playerAuction.length}{playerAuction.length===5? alert("Congratulations!!! You are Master Mind"): " "}</h1>
       <h1 className='text-2xl font-bold text-center'>Total Cost: ${cost}</h1>
       <h1 className='text-2xl font-bold text-center'>Remaining : ${totalCost}</h1>
       </div>

@@ -8,14 +8,21 @@ import Player from './Component/Player/Player'
 
 function App() {
   const [playerAuction,setAuction]= useState([]);
-  const [isBtnDisable, setDisable]= useState(false)
+  // const [isBtnDisable, setDisable]= useState(false)
   
   const auctionBtn =(auction)=>{
       // const dis = [...isBtrue]
-    setDisable (true)
+    // setDisable (true)
     // console.log("click",auction);
-    const newAuction = [...playerAuction,auction];
+    const finditem = playerAuction.find(item=> item.id ===auction.id)
+    if(finditem){
+      return alert("You can buy only once")
+    }
+    else{
+      const newAuction = [...playerAuction,auction];
       setAuction(newAuction)
+    }
+    
 }
 
  
@@ -24,7 +31,7 @@ function App() {
     <>
       <Hader></Hader>
        <div className="flex ">
-       <Player auctionBtn={auctionBtn} isBtnDisable={isBtnDisable}></Player>
+       <Player auctionBtn={auctionBtn} ></Player>
        <Cart  playerAuction={playerAuction} ></Cart>
        </div>
     </>
